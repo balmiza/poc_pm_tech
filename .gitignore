@@ -1,0 +1,33 @@
+# Binários
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/poc_pm_tech
+/server
+
+# Artefatos de teste
+*.test
+
+# Cache do módulo Go
+/vendor/
+
+# Workspace
+go.work
+go.work.sum
+
+# Variáveis de ambiente
+.env
+.env.*
+.envrc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
