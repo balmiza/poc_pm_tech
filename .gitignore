@@ -22,6 +22,9 @@ go.work.sum
 .env.*
 .envrc
 
+# Claude Code
+.claude/
+
 # IDE
 .vscode/
 .idea/
